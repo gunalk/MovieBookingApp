@@ -1,0 +1,16 @@
+.screen{
+   text-align:center;
+   display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-content:center;
+  flex-wrap:wrap;
+  background:linear-gradient(lightcyan,white)
+  
+ 
+}
+
+.screen-box{
+  width:40%;
+  margin-top:5%;
+}
